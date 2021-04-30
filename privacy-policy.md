@@ -133,4 +133,4 @@ Cookieとは、ウェブサイトを訪問するとき、ご参加者様のコ�
 
 こちらもご確認ください:
 
-* 行動規範
+* [行動規範](https://inazuma-talk.fun/code_of_conduct)
